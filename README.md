@@ -11,6 +11,7 @@ A simple and elegant landing page designed for a makeup store. This project focu
 ### 🛠️ Technologies  
 - HTML5  
 - CSS3  
+- JAVASCRIPT
 
 ### 📂 How to Use  
 1. Clone this repository:  
@@ -39,6 +40,7 @@ Uma landing page simples e elegante criada para uma loja de maquiagem. Este proj
 ### 🛠️ Tecnologias  
 - HTML5  
 - CSS3  
+- JAVASCRIPT
 
 ### 📂 Como Usar  
 1. Clone este repositório:  

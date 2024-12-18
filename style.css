@@ -257,7 +257,15 @@ input[type=submit]:hover {
 .product-actions a:hover {
     color: #ff505f;
 }
+.fas.fa-heart {
+    color: #ccc;
+    transition: color 0.3s;
+    cursor: pointer;
+}
 
+.fas.fa-heart.active {
+    color: #ff505f; 
+}
 .cart-btn {
     background-color: rgba(255, 182, 167, 0.336);
     color: #ffffff;
