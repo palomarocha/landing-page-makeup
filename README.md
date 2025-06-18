@@ -24,8 +24,8 @@ A simple and elegant landing page designed for a makeup store. This project focu
 - Replace placeholder text and images with your own content in the `index.html` file.  
 - Modify styles in the `styles.css` file as needed.  
 
-### 🔗 Connect  
-Find me on: www.linkedin.com/in/paloma-rocha-amaral-02239031a 
+### 🔗 Glimmer 
+Link: https://palomarocha.github.io/landing-page-makeup/
 
 ---
 
@@ -53,5 +53,5 @@ Uma landing page simples e elegante criada para uma loja de maquiagem. Este proj
 - Substitua o texto e as imagens de exemplo pelo seu próprio conteúdo no arquivo `index.html`.  
 - Modifique os estilos no arquivo `styles.css` conforme necessário.  
 
-### 🔗 Conecte-se  
-Encontre-me no: www.linkedin.com/in/paloma-rocha-amaral-02239031a 
+### 🔗 Glimmer
+Link: https://palomarocha.github.io/landing-page-makeup/
