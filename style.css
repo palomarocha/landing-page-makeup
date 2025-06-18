@@ -76,7 +76,7 @@ main {
 }
 
 #home-page {
-    background-image: url(Image/bg-girl.jpg);
+    background-image: url(../Image/bg-girl.jpg);
     height: 500px;
     background-repeat: no-repeat;
     background-position: center;
